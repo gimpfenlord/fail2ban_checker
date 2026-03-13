@@ -8,8 +8,6 @@ Each email includes:
 
 Perfect for **centrally monitoring Fail2Ban activity** and receiving alerts.
 
----
-
 ## Features
 
 - Checks all Fail2Ban jails
